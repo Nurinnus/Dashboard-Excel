@@ -1,1 +1,1 @@
-<img alt="profile.md file screenshot" src="/Dashboard Excel (Nurinnus).jpg"/>
+<img alt="profile.md file screenshot" src="/Dashboard Excel (Nurinnus).png"/>
